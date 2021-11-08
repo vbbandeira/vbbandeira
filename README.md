@@ -17,3 +17,14 @@
   <img align="center" alt"Vini-Dart" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt"Vini-Flutter" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
+
+  ##
+  
+<div>
+  <a href="" target="_blank"> <img src="" target="_blank"> </a>
+  <a href="" target="_blank"> <img src="" target="_blank"> </a>
+  <a href="" target="_blank"> <img src="" target="_blank"> </a>
+  <a href="" target="_blank"> <img src="" target="_blank"> </a>
+  <a href="" target="_blank"> <img src="" target="_blank"> </a>
+  
+</div>
