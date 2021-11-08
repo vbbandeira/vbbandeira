@@ -28,6 +28,6 @@
   <a href="https://stackoverflow.com/cv/vbbandeira" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vbritobandeira/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-
+![snake gif](https://github.com/vbbandeira/vbbandeira/blob/output/github-contribution-grid-snake.gif)
   
 </div> 
