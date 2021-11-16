@@ -1,4 +1,4 @@
-## Hi there, I'm Vinícius and I work as a Junior Software Analyst
+## Hello there, I'm Vinícius and I work as a Junior Software Analyst
 
 <div>
   <a href="https://github.com/vbbandeira">
