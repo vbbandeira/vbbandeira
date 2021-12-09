@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbbandeira&layout=compact&langs_count=16&count_private=true&theme=onedark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt"Vini-Js" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt"Vini-Html" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt"Vini-Css" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -16,9 +16,9 @@
   <img align="center" alt"Vini-MySql" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt"Vini-Java" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt"Vini-Java" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt"Vini-Dart" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-  <img align="center" alt"Vini-Flutter" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-  <img align="center" alt"Vini-C" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt"Vini-Dart" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt"Vini-Flutter" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt"Vini-C" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
 </div>
 
