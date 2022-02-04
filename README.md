@@ -30,7 +30,6 @@
   <a href="https://www.linkedin.com/in/vbritobandeira/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
  <div>
-   <br>
    <h5>
      I started my journey in the IT area when I was 5 years old, very curious, I always wanted to understand how the computer worked, from the electrical circuits to the software that allowed me to interact with it. I am currently a student of Information Systems since 2016, self-taught and researcher in the field of Information and Knowledge Systems. I am certainly just at the beginning of a long journey.
    </h5>
