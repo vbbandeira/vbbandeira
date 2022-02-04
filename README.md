@@ -30,13 +30,13 @@
   <a href="https://www.linkedin.com/in/vbritobandeira/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
  <div>
-   <h5>
+   <h4>
      I started my journey in the IT area when I was 5 years old, very curious, I always wanted to understand how the computer worked, from the electrical circuits to the software that allowed me to interact with it. I am currently a student of Information Systems since 2016, self-taught and researcher in the field of Information and Knowledge Systems. I am certainly just at the beginning of a long journey.
-   </h5>
+   </h4>
 
-   <h5>
+   <h4>
      My purpose is to become a full-fledged professional, both a Full-Stack Developer and a C-level. Being able to maintain multilateral dialogues about business with different profiles of people, identify their pain and subsequently resolve them.
-     </h5>
+     </h4>
   </div>
   
 ![snake gif](https://github.com/vbbandeira/vbbandeira/blob/output/github-contribution-grid-snake.svg)
