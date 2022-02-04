@@ -1,4 +1,4 @@
-## Hello there, I'm Vinícius and I work as a Junior Software Analyst
+## Hello there, I'm Vinícius Bandeira
 
 <div>
   <a href="https://github.com/vbbandeira">
@@ -22,7 +22,7 @@
 
 </div>
 
-  ##
+  ##teste
   
 <div>
   <a href="mailto:developer.bandeira@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
