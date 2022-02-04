@@ -31,9 +31,12 @@
   
  <div>
    <br>
-   <h5>I started my journey in the IT area when I was 5 years old, very curious, I always wanted to understand how the computer worked, from the electrical circuits to the software that allowed me to interact with it. I am currently a student of Information Systems since 2016, self-taught and researcher in the field of Information and Knowledge Systems. I am certainly just at the beginning of a long journey.</h5>
+   <h5>
+     I started my journey in the IT area when I was 5 years old, very curious, I always wanted to understand how the computer worked, from the electrical circuits to the software that allowed me to interact with it. I am currently a student of Information Systems since 2016, self-taught and researcher in the field of Information and Knowledge Systems. I am certainly just at the beginning of a long journey.
+   </h5>
 
-   <53>I have been working as a Junior Software Analyst for about 2 years now, I worked on several projects with Agile software development, some as a front-end developer using Dart, Flutter, JavaScript, Html, and CSS, and others as a back-end developer using Node.js, Java, and Amazon Web Services.
+   <h5>
+     My purpose is to become a full-fledged professional, both a Full-Stack Developer and a C-level. Being able to maintain multilateral dialogues about business with different profiles of people, identify their pain and subsequently resolve them.
      </h5>
   </div>
   
